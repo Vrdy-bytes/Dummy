@@ -1,6 +1,6 @@
 # Dummy
 This is my first repository in Git hub named "Dummy "
 <br>
-Author- Vivek Reddy
+Author- Vivek Reddy (vrdy)
 <br>
-Since 2004
+Since 2000
